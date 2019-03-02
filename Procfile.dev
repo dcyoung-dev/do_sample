@@ -1,0 +1,4 @@
+redis: redis-server
+sidekiq: bundle exec sidekiq
+webpack: webpack-dev-server
+web: rails s -p 3000
